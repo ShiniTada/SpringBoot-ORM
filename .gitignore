@@ -1,0 +1,13 @@
+/.idea 
+/logs
+/target
+/repository/target
+/service/target
+/controller/target
+
+/repository/build
+/service/build
+/controller/build
+/repository/out
+/service/out
+/controller/out

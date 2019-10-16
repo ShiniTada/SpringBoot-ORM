@@ -1,0 +1,4 @@
+rootProject.name = 'certificates'
+include(':service')
+include(':repository')
+include(':controller')
